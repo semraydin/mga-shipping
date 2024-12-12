@@ -1,0 +1,10 @@
+
+
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+
+Sitemap:https://mgashipping.com.tr/tr/index.html/sitemap.xml
+Sitemap:https://mgashipping.com.eng/eng/index.html/sitemap.xml
