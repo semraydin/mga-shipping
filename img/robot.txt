@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://daricayardimekibidernegi.org/sitemap.xml
+Sitemap: https://mgashipping.com.tr/sitemap.xml
