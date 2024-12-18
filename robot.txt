@@ -7,4 +7,4 @@ User-agent: *
 Allow: /
 
 Sitemap:https://mgashipping.com.tr/tr/index.html/sitemap.xml
-Sitemap:https://mgashipping.com.eng/eng/index.html/sitemap.xml
+Sitemap:https://mgashipping.com.tr/eng/index.html/sitemap.xml
